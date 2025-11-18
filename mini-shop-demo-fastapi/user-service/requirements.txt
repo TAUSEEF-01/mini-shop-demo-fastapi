@@ -1,0 +1,12 @@
+﻿fastapi
+uvicorn[standard]
+motor
+pydantic
+httpx
+aiokafka
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
+opentelemetry-exporter-jaeger
+prometheus-client
+python-dotenv
